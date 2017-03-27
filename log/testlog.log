@@ -1,0 +1,55 @@
+2017-03-21 15:24:30,675 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:24:35,496 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:24:43,445 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - When I search for element header
+2017-03-21 15:24:55,851 - BDD.Cucumber.Core.BeforeAfterHooks -ERROR - Scenario failed! Browser: firefox v:43.0.1 WINDOWS Taking screenshot...
+2017-03-21 15:24:58,260 - BDD.Cucumber.Core.BeforeAfterHooks -INFO - Deleting all cookies...
+2017-03-21 15:24:58,263 - BDD.Cucumber.Core.BeforeAfterHooks -ERROR - Scenario failed! Browser: firefox v:43.0.1 WINDOWS Taking screenshot...
+2017-03-21 15:24:58,265 - BDD.Cucumber.Core.BeforeAfterHooks -INFO - Deleting all cookies...
+2017-03-21 15:24:58,266 - BDD.Cucumber.Core.BeforeAfterHooks -ERROR - Scenario failed! Browser: firefox v:43.0.1 WINDOWS Taking screenshot...
+2017-03-21 15:26:53,535 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:26:56,832 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:27:01,841 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - When I search for element header
+2017-03-21 15:27:13,789 - BDD.Cucumber.Core.BeforeAfterHooks -ERROR - Scenario failed! Browser: firefox v:43.0.1 WINDOWS Taking screenshot...
+2017-03-21 15:30:59,281 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:31:03,017 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:31:12,337 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 15:31:12,339 - BDD.Cucumber.Core.BeforeAfterHooks -ERROR - Scenario failed! Browser: firefox v:43.0.1 WINDOWS Taking screenshot...
+2017-03-21 15:31:48,347 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:31:51,695 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:31:58,903 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 15:42:42,838 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:42:46,639 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:42:55,588 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 15:43:41,777 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:43:45,401 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:43:56,565 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 15:45:22,831 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:45:22,831 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:45:26,208 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:45:29,740 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:45:33,368 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 15:45:36,795 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 15:56:40,467 - BDD.Cucumber.Core.BeforeAfterHooks -INFO - Deleting all cookies...
+2017-03-21 15:56:40,467 - BDD.Cucumber.Core.BeforeAfterHooks -INFO - Deleting all cookies...
+2017-03-21 15:56:40,472 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:56:40,472 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 15:56:48,287 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:56:48,287 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 15:56:53,570 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 15:56:55,304 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 16:24:43,658 - BDD.Cucumber.Core.BeforeAfterHooks -INFO - Deleting all cookies...
+2017-03-21 16:24:43,658 - BDD.Cucumber.Core.BeforeAfterHooks -INFO - Deleting all cookies...
+2017-03-21 16:24:43,662 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 16:24:43,662 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 16:24:47,679 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 16:24:47,680 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 16:24:52,769 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 16:24:52,850 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 16:25:00,167 - BDD.Cucumber.Core.BeforeAfterHooks -INFO - Deleting all cookies...
+2017-03-21 16:25:00,167 - BDD.Cucumber.Core.BeforeAfterHooks -INFO - Deleting all cookies...
+2017-03-21 16:25:00,173 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 16:25:00,173 - BDD.Cucumber.Core.DriverManager -INFO - Thread has no WedDriver, creating new one
+2017-03-21 16:25:04,252 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 16:25:04,255 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Given I'm on http://cukes.info/<br/>
+2017-03-21 16:25:09,103 - BDD.Cucumber.StepDefinations.Feature1And2Stepdefs -INFO - Then I should see this element
+2017-03-21 16:25:23,752 - BDD.Cucumber.Core.BeforeAfterHooks -ERROR - Scenario failed! Browser: chrome v:56.0.2924.87 XP Taking screenshot...

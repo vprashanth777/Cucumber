@@ -1,0 +1,102 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3993543570,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BeforeAfterHooks.deleteAllCookies()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Go to cukes.info",
+        "description": "",
+        "id": "this-is-the-first-feature-name;go-to-cukes.info",
+        "after": [
+          {
+            "result": {
+              "duration": 810347736,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BeforeAfterHooks.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4902289162,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on http://cukes.info/",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://cukes.info/",
+                  "offset": 8
+                }
+              ],
+              "location": "Feature1And2Stepdefs.givenIAmOn(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 29815044,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I search for element header",
+            "match": {
+              "arguments": [
+                {
+                  "val": "header",
+                  "offset": 21
+                }
+              ],
+              "location": "Feature1And2Stepdefs.whenISearchForElement(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 333246,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should see this element",
+            "match": {
+              "location": "Feature1And2Stepdefs.thenIShouldSeeThisElement()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "this is the first feature name",
+    "description": "this is an example additional feature description",
+    "id": "this-is-the-first-feature-name",
+    "keyword": "Feature",
+    "uri": "FeaureFiles/First.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@functional_test"
+      },
+      {
+        "line": 2,
+        "name": "@other_meta_tag"
+      }
+    ]
+  }
+]

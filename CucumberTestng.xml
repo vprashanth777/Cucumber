@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="run tests in parallel" parallel="tests" verbose="1" configfailurepolicy="continue" thread-count="2">
+
+    <test name="Tests in FF">
+        <parameter name="browserName" value="chrome" />
+        <!-- If you want to be more specific, replace this with a list of test classes you'd like to run -->
+        <classes>
+            <class name="BDD.Cucumber.FirstRunnerTest" />
+        </classes>
+    </test>
+    <test name="Tests in Chrome" >
+        <parameter name="browserName" value="firefox" />
+        <classes>
+            <class name="BDD.Cucumber.SecondRunner"/>
+        </classes>
+    </test>
+</suite>
